@@ -550,3 +550,4 @@ $ cat root.txt
 # Notes
 1. **Bruteforceing:** Use existing details to create password lists to bruteforce credentials.
 2. **Thorough traversal of network shares:** Network shares may include hidden folders as well. So, even if only few directories are visible check if the target destination folder is accessible or not.
+   
