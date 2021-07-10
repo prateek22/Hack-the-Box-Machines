@@ -1,3 +1,6 @@
+* Table of contents
+{:toc}
+
 # Machine Info
 **IP**: 10.10.10.239
 
