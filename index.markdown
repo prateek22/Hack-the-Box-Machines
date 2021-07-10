@@ -1,7 +1,7 @@
 ---
-title:  "Welcome to Jekyll!"
+layout: home
+title:  "Hack The Box Machines!!"
 date:   2021-07-09 19:41:29 -0400
-categories: jekyll update
 ---
 # Hack-the-Box-Machines
 
