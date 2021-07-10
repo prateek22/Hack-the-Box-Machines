@@ -30,7 +30,7 @@ twitter_username: prateek2294
 github_username:  prateek22
 
 # Build settings
-theme: architect
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
