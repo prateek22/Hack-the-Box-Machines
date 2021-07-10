@@ -1,5 +1,4 @@
 ---
-layout: home
 title:  "Welcome to Jekyll!"
 date:   2021-07-09 19:41:29 -0400
 categories: jekyll update
