@@ -8,3 +8,4 @@ I will share the writeups for HTB machines here. For each machine, I will try to
 
 The writeups will be grouped according to the difficulty as easy, medium, hard, and insane.
 
+- [Easy](easy/)
