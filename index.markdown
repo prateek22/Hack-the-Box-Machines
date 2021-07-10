@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title:  "Hack The Box Machines!!"
 date:   2021-07-09 19:41:29 -0400
 ---
