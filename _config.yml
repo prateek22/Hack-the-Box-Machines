@@ -28,7 +28,7 @@ twitter_username: prateek2294
 github_username:  prateek22
 
 # Build settings
-theme: jekyll-theme-architect
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
