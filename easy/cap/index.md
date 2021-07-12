@@ -1,5 +1,3 @@
-![](https://visitor-badge.glitch.me/badge?page_id=prateek22.Hack-the-Box-Machines.gh-pages.easy.cap.index.md)
-
 * Table of contents
 {:toc}
 
