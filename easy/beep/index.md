@@ -399,6 +399,8 @@ WARNING:TakeASip:using an INVITE scan on an endpoint (i.e. SIP phone) may cause 
 +-----------+----------------+
 ```
 2. Next, we need to fix the SSL errors by adding a context to the script to ignore the certificate errors and modifying the SSL connection configuration on our local machine to allow the SSL versions used on the target machine.
+
+
 ```
 $ sslscan 10.10.10.7
 Version: 2.0.10-static
