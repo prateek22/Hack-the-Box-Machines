@@ -416,6 +416,7 @@ TLSv1.1   disabled
 TLSv1.2   disabled
 TLSv1.3   disabled
 ```
+
 The SSL config file is modified by setting the MinProtocol and CipherString values to None. (**Note**: TLSv1.0 and SSL versions should not be allowed, so revert changes once you are done.)
 
 ```
